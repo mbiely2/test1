@@ -12,7 +12,7 @@ package streda_martin;
 public class Streda_martin {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line arguments asdasdasdasdasdas
      */
     public static void main(String[] args) {
         // TODO code application logic here
